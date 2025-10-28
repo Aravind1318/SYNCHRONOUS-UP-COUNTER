@@ -56,7 +56,6 @@ end
 endmodule
 
 ```
-Developed by:khamalraaj S RegisterNumber:24901015
 
 
 **RTL LOGIC UP COUNTER**
